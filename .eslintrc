@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "no-extra-semi": "off",
+    "semi": "off"
+  },
+  "extends": [
+//    "oclif",
+    "oclif-typescript"
+  ]
+}
